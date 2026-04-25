@@ -6,7 +6,7 @@ Got a question, found a bug, or just want to share a send? We'd love to hear fro
 
 ## Contact
 
-- **Email:** hello@bouldy.app
+- **Email:** bouldy@playsmashd.com
 - **Response time:** Usually within 2 business days.
 
 ## Common questions
@@ -31,7 +31,7 @@ Open the Watch app on your iPhone, scroll to Bouldy, ensure "Show App on Apple W
 
 ## Bug reports
 
-Email `hello@bouldy.app` with:
+Email `bouldy@playsmashd.com` with:
 
 - iOS / watchOS version
 - Bouldy app version (Settings → About)
@@ -40,4 +40,4 @@ Email `hello@bouldy.app` with:
 
 ## Feature requests
 
-Welcome! Same email — `hello@bouldy.app`.
+Welcome! Same email — `bouldy@playsmashd.com`.

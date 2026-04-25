@@ -4,4 +4,4 @@ The climbing practice tracker built for sends, not spray. Log a session, watch y
 
 - **Privacy Policy** — [PRIVACY.md](./PRIVACY.md)
 - **Support** — [SUPPORT.md](./SUPPORT.md)
-- **Contact** — hello@bouldy.app
+- **Contact** — bouldy@playsmashd.com
